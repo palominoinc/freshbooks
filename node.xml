@@ -1,0 +1,10 @@
+<extension name="freshbooks" webpalschematype="wpExtension" id="exte1PFphg5GImkZ" modifiedBy="bryan" modified="20150417.144409"><source webpalschematype="wpAppSourceFolder" id="sourcFgqlx0UjGNg" name="source" folder-type="php" modifiedBy="bryan" modified="20150417.144314"/><README webpalschematype="wpHtml" id="READxcJNFJ6MtdvF" lang="any" modifiedBy="bryan" modified="20150417.144409"><h1>Freshbooks</h1>
+
+<p>This extension is a library to connect to Freshbooks API for online billing and accounting functionality.</p>
+
+<p>April 2015, IS<ch value="nbsp"/></p>
+
+<p><ch value="nbsp"/></p>
+
+<p><ch value="nbsp"/></p>
+</README></extension>

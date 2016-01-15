@@ -1,12 +1,16 @@
-<extension name="freshbooks" webpalschematype="wpExtension" id="exte1PFphg5GImkZ" modifiedBy="markus" modified="20160115.100440" node-changed="0"><source webpalschematype="wpAppSourceFolder" id="sourcFgqlx0UjGNg" name="source" folder-type="php" modifiedBy="bryan" modified="20150417.144314"/><README webpalschematype="wpHtml" id="READxcJNFJ6MtdvF" lang="any" modifiedBy="markus" modified="20160115.100440"><h1>Freshbooks</h1>
-
-<p>This extension is a library to connect to Freshbooks API for online billing and accounting functionality.</p>
-
-<p>April 2015, IS<ch value="nbsp"/></p>
-
-<p>Some changes, ML</p>
-
-<p><ch value="nbsp"/></p>
-
-<p><ch value="nbsp"/></p>
-</README></extension>
+<?xml version="1.0" encoding="utf-8"?>
+<extension id="exte1PFphg5GImkZ" name="freshbooks" webpalschematype="wpExtension">
+  <source folder-type="php" id="sourcFgqlx0UjGNg" name="source" webpalschematype="wpAppSourceFolder"/>
+  <README id="READxcJNFJ6MtdvF" lang="any" webpalschematype="wpHtml">
+    <h1>Freshbooks</h1>
+    <p>This extension is a library to connect to Freshbooks API for online billing and accounting functionality.</p>
+    <p>April 2015, IS<ch value="nbsp"/></p>
+    <p>Some changes, ML</p>
+    <p>
+      <ch value="nbsp"/>
+    </p>
+    <p>
+      <ch value="nbsp"/>
+    </p>
+  </README>
+</extension>
